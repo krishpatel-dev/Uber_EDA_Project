@@ -16,15 +16,6 @@ The objective of this project is to analyze ride request patterns, identify the 
 
 ---
 
-## 👨‍💻 Project Metadata
-
-- **Project Name:** Uber Supply Demand Gap EDA Project
-- **Project Type:** Exploratory Data Analysis (EDA)
-- **Contribution:** Individual
-- **Author:** Krish Minolkumar Patel
-
----
-
 ## 🎯 Business Objectives
 
 1. **Driver Cancellation Identification:** Uncover the underlying reasons behind driver ride cancellations during specific time slots and routes.
@@ -114,7 +105,7 @@ Uber Project/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/akshithedau/Uber_Supply_Demand_EDA_Analysis.git
+git clone https://github.com/krishpatel-dev/Uber_EDA_Project.git
 cd Uber_Supply_Demand_EDA_Analysis
 ```
 
@@ -138,15 +129,3 @@ pip install pandas numpy matplotlib seaborn plotly scikit-learn missingno wordcl
 ```bash
 jupyter notebook Uber_Supply_Demand_Gap_EDA_Project.ipynb
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/akshithedau/Uber_Supply_Demand_EDA_Analysis/issues) if you have suggestions or improvements.
-
----
-
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
